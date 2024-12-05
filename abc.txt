@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
+<h1>this is my first page</h1>
 
-<p>My first paragraph.</p>
+<p>this is my second page.</p>
 
 </body>
 </html
